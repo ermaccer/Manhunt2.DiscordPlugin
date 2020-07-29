@@ -15,4 +15,4 @@ DiscordPlugin uses Rich Presence to show:
 - Health
 
 
-![Preview:](https://raw.githubusercontent.com/ermaccer/Manhunt2.DiscordPlugin/master/rpc2Preview.pngg)
+![Preview:](https://raw.githubusercontent.com/ermaccer/Manhunt2.DiscordPlugin/master/rpc2Preview.png)
